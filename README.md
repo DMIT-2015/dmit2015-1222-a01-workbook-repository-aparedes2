@@ -1,8 +1,8 @@
 # DMIT2015 Fall 2022 assignments
 
-## your name here
+## Allaine Paredes
 
-## your Github Account id
+## aparedes2
 
 This is a private repository for your assignments. 
 You will use this only for evaluation work. 
