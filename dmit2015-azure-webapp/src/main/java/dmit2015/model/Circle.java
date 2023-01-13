@@ -20,6 +20,7 @@ public class Circle {
 //        return radius;
 //    }
 
+    // Runtime exception example
     public void setRadius(double radius) {
         if(radius <= 0) {
             throw new RuntimeException("Radius must be a positive non-zero number");
@@ -37,7 +38,15 @@ public class Circle {
         setRadius(radius);
     }
 
+    public double Area()
+    {
+        return Math.PI * radius * radius;
+    }
 
+    public double Perimeter()
+    {
+        return 2 * Math.PI * radius;
+    }
 
 
 }
